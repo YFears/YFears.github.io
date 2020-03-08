@@ -1,0 +1,13 @@
+.additional__info {
+    max-width: 248px;
+    position: absolute;
+    left: 18px;
+    bottom: 30px;
+    margin:0;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}

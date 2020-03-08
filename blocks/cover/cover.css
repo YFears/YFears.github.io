@@ -1,0 +1,24 @@
+@import url('__rect/cover__rect.css');
+@import url('__title/cover__title.css');
+@import url('__subtitle/cover__subtitle.css');
+.cover {
+    position: relative;
+    width: 1184px;
+    height: 594px;
+    margin: 102px auto 0px auto;
+    background-image: url(../../images/toBaikal.jpg);
+}
+
+.cover::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .5);
+    transition: .5s linear;
+    transition-property: background;
+}
+
+.cover:hover::before {
+    background: rgba(0, 0, 0, .2);
+}

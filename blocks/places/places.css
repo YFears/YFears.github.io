@@ -1,0 +1,8 @@
+.places {
+    margin: 92px auto;
+    width: 984px;
+    display: grid;
+    row-gap: 72px;
+    grid-template-columns: 1fr;
+    margin-bottom: 0;
+}

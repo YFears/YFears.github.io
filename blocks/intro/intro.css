@@ -1,0 +1,13 @@
+@import url('__title/intro__title.css');
+@import url('__subtitle/intro__subtitle.css');
+@import url('__content-row/intro__content-row.css');
+@import url('__content-article/intro__content-article.css');
+@import url('__content-info/intro__content-info.css');
+@import url('__content-author/intro__content-author.css');
+@import url('__content-date/intro__content-date.css');
+@import url('__extra/intro__extra.css');
+@import url('__extra-information/intro__extra-information.css');
+.intro {
+    width: 984px;
+    margin: 80px auto 100px auto;
+}

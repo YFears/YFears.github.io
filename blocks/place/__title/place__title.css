@@ -1,0 +1,9 @@
+.place__title {
+    margin: 0px;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 65px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,10 @@
+.intro__content-article {
+    flex-basis: 683px;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin: 0;
+}

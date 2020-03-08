@@ -1,0 +1,7 @@
+.additional__container {
+    display: flex;
+    justify-content: space-between;
+    width: 1184px;
+    height: 330px;
+    margin: 72px auto 0px auto;
+}

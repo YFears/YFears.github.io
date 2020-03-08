@@ -1,0 +1,8 @@
+@import url('__row-links/footer__row-links.css');
+@import url('__link/footer__link.css');
+@import url('__copyright/footer__copyright.css');
+.footer {
+    position: relative;
+    margin: 160px auto 40px auto;
+    width: 1184px;
+}

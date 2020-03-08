@@ -1,0 +1,13 @@
+.additional__heading {
+    max-width: 248px;
+    position: absolute;
+    top: 30px;
+    left: 18px;
+    margin: 0;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27px;
+    line-height: 29px;
+    color: #FFFFFF;
+}

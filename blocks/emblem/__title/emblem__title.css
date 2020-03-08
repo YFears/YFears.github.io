@@ -1,0 +1,13 @@
+.emblem__title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    max-width: 443px;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 46px;
+    color: #FFFFFF;
+}

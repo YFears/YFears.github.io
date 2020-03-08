@@ -1,0 +1,6 @@
+.barentsburg__content-container {
+    display: grid;
+    column-gap: 120px;
+    grid-template-columns: 380px 282px;
+    margin-top: 48px;
+}
